@@ -7,3 +7,4 @@ This repository follows the book *The Rust Programming Language* by Steve Klabni
 ### Chapters
 * **Chapter 1**: [Getting started](https://github.com/leonardofmoura/rust-learn/tree/main/chapter1)
 * **Chapter 2**: [Programming a guessing game](https://github.com/leonardofmoura/rust-learn/tree/main/chapter2)
+* **Chapter 3**: [Common Programming Concepts](https://github.com/leonardofmoura/rust-learn/tree/main/chapter3)
