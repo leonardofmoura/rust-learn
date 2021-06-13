@@ -9,3 +9,4 @@ This repository follows the book *The Rust Programming Language* by Steve Klabni
 * **Chapter 2**: [Programming a Guessing Game](https://github.com/leonardofmoura/rust-learn/tree/main/chapter2)
 * **Chapter 3**: [Common Programming Concepts](https://github.com/leonardofmoura/rust-learn/tree/main/chapter3)
 * **Chapter 4**: [Understanding Ownership](https://doc.rust-lang.org/stable/book/ch04-00-understanding-ownership.html)
+* **Chapter 5**: [Understanding Ownership](https://doc.rust-lang.org/stable/book/ch05-00-structs.html)
