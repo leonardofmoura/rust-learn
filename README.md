@@ -11,3 +11,4 @@ This repository follows the book *The Rust Programming Language* by Steve Klabni
 * **Chapter 4**: [Understanding Ownership](https://doc.rust-lang.org/stable/book/ch04-00-understanding-ownership.html)
 * **Chapter 5**: [Using Structs to Structure Related Data](https://doc.rust-lang.org/stable/book/ch05-00-structs.html)
 * **Chapter 6**: [Enums and Pattern Matching](https://doc.rust-lang.org/stable/book/ch06-00-enums.html)
+* **Chapter 7**: [Managing Growing Projects with Packages, Crates, and Modules](https://doc.rust-lang.org/stable/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html)
