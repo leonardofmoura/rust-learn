@@ -33,5 +33,4 @@ fn main() {
     println!("s4: {}",s4);
     println!("s5: {}",s5);
     println!("s6: {}",s6);
-
 }
